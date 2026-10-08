@@ -11,7 +11,8 @@ To use |projectName|, you need to install the following dependencies on your mac
 * Aspectj 1.8+, and MUST keep the verison of aspectjrt in pom equal to the Aspectj
 * Docker 1.13+ (Make sure the user running your test cases is able to run Docker commands. For example, in Linux, you need
   to add the user to the docker group)
- ..
-  * Run under ROOT authority
+
+..
+   * Run under ROOT authority
 
 It is also recommended to use a build system like Maven or Gradle to be able to include |projectName|'s dependency.

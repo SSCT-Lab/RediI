@@ -91,7 +91,7 @@ Adding a Test Case
 
 
 Now, create a JUnit integration test case  (ending with IT so failsafe picks it up) in the project's test directory. Here,
-we provide an example for testing the situation of multithread. You can find the full code in the Redit project.
+we provide an example for testing the situation of multithread. You can find the full code in the RediI project.
 
 .. code-block:: java
     :linenos:

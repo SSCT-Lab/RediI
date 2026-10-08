@@ -21,7 +21,7 @@ import os
 
 # -- Project information -----------------------------------------------------
 
-project = u'RediB'
+project = u'RediI'
 copyright = u'2023, SATE-Lab'
 author = u'SATE-Lab'
 
@@ -67,7 +67,7 @@ master_doc = 'index'
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = None
+language = 'en'
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
@@ -120,7 +120,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Reditdoc'
+htmlhelp_basename = 'RediIdoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -147,7 +147,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'Redit.tex', u'Redit Documentation',
+    (master_doc, 'RediI.tex', u'RediI Documentation',
      u'SATE-Lab', 'manual'),
 ]
 
@@ -157,7 +157,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'Redit', u'Redit Documentation',
+    (master_doc, 'RediI', u'RediI Documentation',
      [author], 1)
 ]
 
@@ -168,8 +168,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'Redit', u'Redit Documentation',
-     author, 'Redit', 'One line description of project.',
+    (master_doc, 'RediI', u'RediI Documentation',
+     author, 'RediI', 'One line description of project.',
      'Miscellaneous'),
 ]
 
