@@ -2,6 +2,7 @@
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
+> **Update:** Our paper, [RediI: Test Infrastructure to Enable Deterministic Reproduction of Failures for Distributed Systems](https://ieeexplore.ieee.org/document/11029968), has been accepted to **ICSE 2025**!
 
 RediI(**Re**gression framework for **Di**stributed system **I**nfrastructure) is an infrastructure or the **deterministic** reproduction of distributed system failures. RediI provides both a dataset of known distributed-systems bugs called RediD and a toolset called RediT. 
 
@@ -71,3 +72,21 @@ You can open an issue in the project to inform us of your problems.
 # License
 
 RediB is licensed under [MIT](https://opensource.org/licenses/MIT) and is freely available on Github.
+
+# Citation
+
+If you use RediI in your research, please cite our paper:
+
+Y. Feng, Z. Lin, D. Zhao, M. Zhou, J. Liu and J. A. Jones, "RediI: Test Infrastructure to Enable Deterministic Reproduction of Failures for Distributed Systems," *2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)*, Ottawa, ON, Canada, 2025, pp. 191-203, doi: [10.1109/ICSE55347.2025.00244](https://doi.org/10.1109/ICSE55347.2025.00244).
+
+```bibtex
+@INPROCEEDINGS{11029968,
+  author={Feng, Yang and Lin, Zheyuan and Zhao, Dongchen and Zhou, Mengbo and Liu, Jia and Jones, James A.},
+  booktitle={2025 IEEE/ACM 47th International Conference on Software Engineering (ICSE)},
+  title={{RediI}: Test Infrastructure to Enable Deterministic Reproduction of Failures for Distributed Systems},
+  year={2025},
+  pages={191-203},
+  keywords={Runtime;Computer bugs;Software systems;Performance analysis;Testing;Distributed Systems;Infrastructure;Regression Testing},
+  doi={10.1109/ICSE55347.2025.00244}
+}
+```
