@@ -3,9 +3,9 @@ Changelog
 =========
 
 v 0.1-SNAPSHOT (11/08/2021)
-====================
+================================
 * Initialize the project
-* Introduce basic operation for Redit
+* Introduce basic operation for RediT
 
 v 0.1.0 (03/17/2022)
 ====================
@@ -14,5 +14,5 @@ v 0.1.0 (03/17/2022)
 
 v 0.1.1 (12/13/2022)
 ====================
-* Build RediB and the following components
+* Build RediI and the following components
 * Modify the description of the project
